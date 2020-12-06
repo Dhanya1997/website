@@ -1,0 +1,61 @@
+
+
+    .navbar-nav { 
+        margin-left: auto; 
+    } 
+    .p{
+        font-weight: bold;
+    }
+    body {
+        font-family: Arial;
+        margin: 0;
+      }
+      .mapouter{position:relative;
+        text-align:right;
+        height:500px;
+        width:600px;
+    }.gmap_canvas {
+        overflow:hidden;
+        background:none!important;
+        height:500px;
+        width:600px;}
+    
+
+        *{
+            box-sizing: border-box;
+          }
+          
+          body {
+            font-family: Arial;
+            font-size: 17px;
+          }
+          
+          .container {
+            position: relative;
+            max-width: 800px;
+            margin: 0 auto;
+          }
+          
+          .container img {vertical-align: middle;}
+          
+          .container .content {
+            position: absolute;
+            top : 0;
+            background: rgb(255, 254, 254); /* Fallback color */
+            background: rgba(252, 250, 250, 0.5); /* Black background with 0.5 opacity */
+            color: #f1f1f1;
+            width: 95%;
+            padding: 100px;
+          }
+      
+      /* Header/Logo Title */
+     /* .header {
+        padding: 5px;
+        text-align: center;
+        background: #c9bdb7;
+        color: rgb(12, 10, 1);
+        font-size: 50px;
+      }
+      
+      /* Page Content */
+     /* .content {padding:20px;}
