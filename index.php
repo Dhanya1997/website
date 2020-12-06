@@ -16,19 +16,19 @@
 <br>
 <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
   <ul class="navbar-nav">
-            <a class="nav-link active" href="index.html">Home</a>
+            <a class="nav-link active" href="index.php">Home</a>
           </li>
           <li class="nav-item active">
-            <a class="nav-link" href="history.html">History</a>
+            <a class="nav-link" href="history.php">History</a>
           </li>
           <li class="nav-item active">
-            <a class="nav-link" href="culture.html">Culture</a>
+            <a class="nav-link" href="culture.php">Culture</a>
           </li>
           <li class="nav-item active">
-            <a class="nav-link" href="pic.html">Images</a>
+            <a class="nav-link" href="pic.php">Images</a>
           </li>
           <li class="nav-item active">
-            <a class="nav-link" href="book.html">Book-a-ticket</a>
+            <a class="nav-link" href="book.php">Book-a-ticket</a>
           </li>
         </ul>
       </nav>
